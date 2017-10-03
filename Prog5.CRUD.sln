@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicCollectionMVVMLight.uitwerking", "MusicCollectionMVVMLight.uitwerking\MusicCollectionMVVMLight.uitwerking.csproj", "{19168CB9-AA9F-4E3D-B362-350C53264DED}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MusicCollection.Database", "MusicCollection.Database\MusicCollection.Database.sqlproj", "{A76B30BF-6557-4FF5-96C3-643EC019058E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19168CB9-AA9F-4E3D-B362-350C53264DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19168CB9-AA9F-4E3D-B362-350C53264DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19168CB9-AA9F-4E3D-B362-350C53264DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19168CB9-AA9F-4E3D-B362-350C53264DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76B30BF-6557-4FF5-96C3-643EC019058E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76B30BF-6557-4FF5-96C3-643EC019058E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76B30BF-6557-4FF5-96C3-643EC019058E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A76B30BF-6557-4FF5-96C3-643EC019058E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76B30BF-6557-4FF5-96C3-643EC019058E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76B30BF-6557-4FF5-96C3-643EC019058E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFBAEC8D-E603-4DF9-8500-0E13E4AB40DE}
+	EndGlobalSection
+EndGlobal
